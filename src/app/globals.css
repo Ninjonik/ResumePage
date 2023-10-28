@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    font-family: 'Jost';
+    scroll-behavior: smooth;
+    text-decoration: none;
+}
